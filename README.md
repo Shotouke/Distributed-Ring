@@ -18,6 +18,13 @@ This program consists of two parts:
 - Failure detection and recovery: Anti-entropy
 
 
+## How it wotks?
+
+First of all you need start the Distributed Ring. To do that, you need run the file build.xml, this file starts five node in a parallel way. After this operation you have the Distributed Ring running.
+
+The last part to run the application is start a client. When you start a client you can choose the options appeared in the menu and store data in the Distributed Ring.
+
+
 ## Copyright
 
 This software is authored by (c) 2015 Manuel Rojo Horno <manuelrojohorno@gmail.com>
