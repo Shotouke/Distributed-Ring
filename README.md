@@ -23,6 +23,6 @@ This program consists of two parts:
 This software is authored by (c) 2015 Manuel Rojo Horno <manuelrojohorno@gmail.com>
 
 
-# License
+## License
 
 This software is distributed under Eclipse Public License. See: https://www.eclipse.org/legal/epl-v10.html
