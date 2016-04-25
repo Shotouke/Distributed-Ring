@@ -4,7 +4,7 @@
 ## Description
 
 This program consists of two parts:
-- A package containing the Ring Distributed
+- A package containing the Distributed Ring
 - A package containing the Client Distributed Ring
 
 
